@@ -1,0 +1,23 @@
+{
+  "local": {
+    "username": "ibslally",
+    "password": "4hN1BItVpOm4rCQh3abLVJJDCUDS3QQI",
+    "database": "ibslally",
+    "host": "satao.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "development": {
+    "username": "ibslally",
+    "password": "4hN1BItVpOm4rCQh3abLVJJDCUDS3QQI",
+    "database": "ibslally",
+    "host": "satao.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
